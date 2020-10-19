@@ -1,0 +1,22 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "This is My personal blog website. The content genre is not bounded to a single feild. This blog is about education, food, tech tips. Have a look at it and share your views with me on my emails id... Thanks",
+  "main": "app.js",
+  "scripts": {
+    "test": "console.log(\"Hello Blogger\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": ".blog"
+  },
+  "author": "Shivam Saway",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "lodash": "^4.17.20",
+    "mongoose": "^5.10.9"
+  }
+}
